@@ -7,7 +7,7 @@ namespace our_app
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("hello Tirupathi");
+            Console.WriteLine("hello Lokendra");
         }
     }
 }
